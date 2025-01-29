@@ -52,12 +52,7 @@ background-color: #f2f4f2;
   width: 100%;
   justify-content: center;
   /* border: solid 1px; */
-<<<<<<< HEAD
   background-color:#f2f4f2;
-=======
-  background-color: rgb(242, 244, 242);
->>>>>>> db51a4996da0c2abdd04d342fbfaf73804f260ae
-
 
 }
 
@@ -105,7 +100,6 @@ h1 {
   width: 264px;
 }
 
-<<<<<<< HEAD
 .textInput{
  width: 700px;
  height: 100%;
@@ -117,19 +111,6 @@ h1 {
  border: solid 1px #b7b7b7;
  line-height: 1.3rem;
  /* text-transform: capitalize; */
-=======
-.textInput {
-  width: 700px;
-  height: 100%;
-  font-size: var(--TSize3);
-  resize: none;
-  border-radius: 13px;
-  padding: 7px;
-  font-family: Arial, Helvetica, sans-serif;
-  border: solid 1px #b7b7b7;
-  line-height: 1.3rem;
-  text-transform: capitalize;
->>>>>>> db51a4996da0c2abdd04d342fbfaf73804f260ae
 
 }
 
@@ -183,14 +164,9 @@ button:hover {
   border-radius: 33px;
   cursor: pointer;
 }
-<<<<<<< HEAD
+
 .pill-button:hover{
 background-color: #f7f7f7;
-=======
-
-.pill-button:hover {
-  background-color: #f7f7f7;
->>>>>>> db51a4996da0c2abdd04d342fbfaf73804f260ae
 }
 
 
@@ -235,13 +211,9 @@ background-color: #f7f7f7;
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
+
 .transp-button-l:hover{  
   background-color: #ffffff;
-=======
-.transp-button-l:hover {
-  background-color: #f0f0f0;
->>>>>>> db51a4996da0c2abdd04d342fbfaf73804f260ae
 
 }
 
