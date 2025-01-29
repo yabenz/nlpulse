@@ -4,6 +4,8 @@ Welcome to NLPulse project! This application allows you to analyze the sentiment
 
 The frontend is built with **React** and **TypeScript**, and it uses the **Lucide React** icons library for a sleek and modern user interface. Additionally, you can save your favorite text analyses to your browser's local storage for easy access later.
 
+![My PNG Image](frontend/public/yabenz-nlpulse.png)
+
 ---
 
 ## Features
